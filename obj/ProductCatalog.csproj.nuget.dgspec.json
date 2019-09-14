@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/diego/dev/dotnet/ProductCatalog/ProductCatalog.csproj": {}
+  },
+  "projects": {
+    "/home/diego/dev/dotnet/ProductCatalog/ProductCatalog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/diego/dev/dotnet/ProductCatalog/ProductCatalog.csproj",
+        "projectName": "ProductCatalog",
+        "projectPath": "/home/diego/dev/dotnet/ProductCatalog/ProductCatalog.csproj",
+        "packagesPath": "/home/diego/.nuget/packages/",
+        "outputPath": "/home/diego/dev/dotnet/ProductCatalog/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/diego/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.2.6, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+/home/diego/dev/dotnet/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.deps.json
+/home/diego/dev/dotnet/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.json
+/home/diego/dev/dotnet/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.runtimeconfig.dev.json
+/home/diego/dev/dotnet/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.dll
+/home/diego/dev/dotnet/ProductCatalog/bin/Debug/netcoreapp2.2/ProductCatalog.pdb
+/home/diego/dev/dotnet/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csprojAssemblyReference.cache
+/home/diego/dev/dotnet/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.csproj.CoreCompileInputs.cache
+/home/diego/dev/dotnet/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cache
+/home/diego/dev/dotnet/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorAssemblyInfo.cs
+/home/diego/dev/dotnet/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfoInputs.cache
+/home/diego/dev/dotnet/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.AssemblyInfo.cs
+/home/diego/dev/dotnet/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.RazorTargetAssemblyInfo.cache
+/home/diego/dev/dotnet/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.dll
+/home/diego/dev/dotnet/ProductCatalog/obj/Debug/netcoreapp2.2/ProductCatalog.pdb
